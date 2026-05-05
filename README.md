@@ -1,6 +1,6 @@
 # Expense Tracker
 
-**Автор:** Иван Иванов (замените на своё имя)  
+**Автор:** Королев Тимофей
 **GitHub репозиторий:** [https://github.com/your-username/expense-tracker](https://github.com/your-username/expense-tracker)
 
 ## Описание программы
