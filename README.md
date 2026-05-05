@@ -1,7 +1,7 @@
 # Expense Tracker
 
 **Автор:** Королев Тимофей
-**GitHub репозиторий:** [https://github.com/your-username/expense-tracker](https://github.com/your-username/expense-tracker)
+**GitHub репозиторий:** [https://github.com/holttq/expense-tracker](https://github.com/holttq/expense-tracker)
 
 ## Описание программы
 
